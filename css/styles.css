@@ -1061,7 +1061,14 @@ progress {
   .gy-sm-5 {
     --bs-gutter-y: 3rem;
   }
+  
+@media (max-width: 767.98px) {
+  body {
+    background-image: url("/assets/tati-gradient-bg.png");
+    background-size: contain;
+  }
 }
+
 @media (min-width: 768px) {
   .col-md {
     flex: 1 0 0%;
