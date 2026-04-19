@@ -99,7 +99,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background-image: url("/assets/tati-gradient-bg.png");
+  background-image: url("/assets/lush.png");
   background-size: cover;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
